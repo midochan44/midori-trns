@@ -1,1 +1,1 @@
-## KB Translation Services
+## Midori Translation Services
