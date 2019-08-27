@@ -1,0 +1,30 @@
+body {
+  background-image: url("../media/background.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.AppJ {
+  font-family: "Kosugi Maru", sans-serif;
+}
+
+.AppE {
+  font-family: "Hind Madurai", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 5px;
+}
+
+h3 {
+  margin: 5px 0 0 20px;
+}
+
+h5 {
+  margin: 7px 0 0 20px;
+  color: gray;
+}
