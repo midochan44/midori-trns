@@ -17,7 +17,7 @@ export default class AboutE extends React.Component {
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-                , a company run by three husbands in Los Angeles for 18 years,
+                in Los Angeles for 18 years, I
                 recently moved to Japan. Based on the experience we have
                 cultivated in the United States, we are committed to providing
                 services that will satisfy our customers. Toeic Score: 875
