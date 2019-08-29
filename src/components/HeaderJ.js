@@ -1,5 +1,5 @@
 import React from "react";
-import headerImg from "../media/header.png";
+import headerImg from "../media/headerJ.png";
 
 export default class Header extends React.Component {
   render() {
