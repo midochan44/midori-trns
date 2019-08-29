@@ -29,13 +29,13 @@ export default class IntroJ extends React.Component {
       
         <p>
           英語に関する困りごとをお問い合わせ欄よりお聞かせください。
-        </P>
-        <P>
+        </p>
+        <p>
           お見積もりは無料、お支払いは安心の後払いです。
-        </P>
-        <P>
+        </p>
+        <p>
           お問い合わせ心よりお待ちしています。
-        </P>
+        </p>
       </div>
     );
   }
