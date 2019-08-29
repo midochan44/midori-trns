@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Header from "./components/Header.js";
+import HeaderJ from "./components/HeaderJ.js";
 import IntroE from "./components/English/IntroE.js";
 import SpecificsE from "./components/English/SpecificsE.js";
 import AboutE from "./components/English/AboutE.js";
@@ -14,7 +14,7 @@ function App() {
       <Link className="language" to="/">
         日本語
       </Link>
-      <Header />
+      <HeaderJ />
       <div className="container">
         <IntroE />
         <SpecificsE />
