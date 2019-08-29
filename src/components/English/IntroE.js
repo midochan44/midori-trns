@@ -12,8 +12,7 @@ export default class IntroE extends React.Component {
           become more prominent enough to create the illusion of being in a
           foreign country for a moment. However, when foreign tourists try to
           enjoy Tokyo, it seems that they often feel inconvenient because there
-          is not enough explanation in English. Some people use the wrong
-          English.
+          is not enough explanation in English. Some people don't use the right English.
         </p>
         <p>
           There are a lot of things that foreigners want to experience in Japan,
