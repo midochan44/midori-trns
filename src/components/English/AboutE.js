@@ -20,7 +20,7 @@ export default class AboutE extends React.Component {
                 in Los Angeles for 18 years, I
                 recently moved to Japan. Based on the experience we have
                 cultivated in the United States, we are committed to providing
-                services that will satisfy our customers. Toeic Score: 875
+                services that will satisfy our customers. My Toeic Score: 875
               </p>
             </div>
           </div>
