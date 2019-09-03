@@ -32,12 +32,12 @@ export default class ContactJ extends React.Component {
         />
 
         <textarea
-          className="contents"
+          className="内容"
           value={this.state.contents}
           onChange={this.handleContents}
           rows="7"
           maxLength="1000"
-          placeholder="内容..."
+          placeholder="contents.."
         />
         <button type="button" class="btn btn-primary">
           <a
