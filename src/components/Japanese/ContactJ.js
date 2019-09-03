@@ -17,13 +17,13 @@ export default class ContactJ extends React.Component {
   render() {
     return (
       <div className="contactForm">
-        <h2>ご依頼/お問い合せ</h2>
+        <h2>ご依頼/お問い合わせ</h2>
         <hr />
         <p>
-          ご質問がある場合、またはサービスをご希望の場合は、下記までご連絡ください。
+          ご記入いただき送信ボタンをクリックするとメールで送信できます。
         </p>
         <input
-          className="subject"
+          className="用件名"
           type="email"
           value={this.state.subject}
           onChange={this.handleSubject}
@@ -37,13 +37,13 @@ export default class ContactJ extends React.Component {
           onChange={this.handleContents}
           rows="7"
           maxLength="1000"
-          placeholder="Your message..."
+          placeholder="内容..."
         />
         <button type="button" class="btn btn-primary">
           <a
             href={`mailto:mulberrytrns@gmail.com?subject=${this.state.subject}&body=${this.state.contents}`}
           >
-            Send
+            送信
           </a>
         </button>
       </div>
