@@ -23,21 +23,21 @@ export default class ContactJ extends React.Component {
           ご記入いただき送信ボタンをクリックするとメールで送信できます。
         </p>
         <input
-          className="用件名"
+          className="subject"
           type="email"
           value={this.state.subject}
           onChange={this.handleSubject}
           maxLength="50"
-          placeholder="Subject..."
+          placeholder="用件名..."
         />
 
         <textarea
-          className="内容"
+          className="contents"
           value={this.state.contents}
           onChange={this.handleContents}
           rows="7"
           maxLength="1000"
-          placeholder="contents.."
+          placeholder="内容..."
         />
         <button type="button" class="btn btn-primary">
           <a
