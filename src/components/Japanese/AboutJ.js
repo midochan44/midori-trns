@@ -5,7 +5,7 @@ export default class AboutJ extends React.Component {
   render() {
     return (
       <div>
-        <h2>私たちは誰ですか</h2>
+        <h2>私たちについて</h2>
         <hr />
         <div className="about">
           <img src={kayImg} alt="Kayoko Bossiere" />
@@ -26,11 +26,11 @@ export default class AboutJ extends React.Component {
             <div className="col-12">
               <h4>ボシエール ジェフリー</h4>
               <p>
-                北米の顧客を中心に映画、ITビジネス関連のコンサルタント会社
+                国際的な企業を顧客に映画、ITビジネス関連のコンサルタント会社
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-                社長。日英仏語のトライリンガル。UCLA 経営学大学院卒。
+                を経営する。UCLA 経営学部大学院卒。
               </p>
             </div>
           </div>
