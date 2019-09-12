@@ -5,7 +5,7 @@ export default class FooterJ extends React.Component {
     return (
       <div className="footer">
         <div className="text">
-          <p>ミドリ翻訳サービス</p>
+          <p>みどり翻訳サービス</p>
 
           <p>〒 152-0035</p>
 
@@ -13,7 +13,7 @@ export default class FooterJ extends React.Component {
 
           <p>TEL: xx-xxx-xxxx</p>
 
-          <p>E-mail: mulberrytrns@gmail.com</p>
+          <p>E-mail: midoritrns@gmail.com</p>
         </div>
       </div>
     );
