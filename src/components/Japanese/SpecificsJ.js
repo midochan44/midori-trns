@@ -21,7 +21,7 @@ export default class SpecificsJ extends React.Component {
           ホームページの翻訳（言語の翻訳のみ）
         </p>
         
-        <p>英語のマニュアル作り（外国人旅行者のための接客マニュアルなどの作成）</p>
+        <p>英語のマニュアル作り（外国人旅行者のための接客マニュアル作成など）</p>
        
         <h3>納品</h3>
         <p>
