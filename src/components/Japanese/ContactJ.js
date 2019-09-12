@@ -41,7 +41,7 @@ export default class ContactJ extends React.Component {
         />
         <button type="button" class="btn btn-primary">
           <a
-            href={`mailto:mulberrytrns@gmail.com?subject=${this.state.subject}&body=${this.state.contents}`}
+            href={`mailto:midoritrns@gmail.com?subject=${this.state.subject}&body=${this.state.contents}`}
           >
             送信
           </a>
