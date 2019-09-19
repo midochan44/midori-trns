@@ -13,7 +13,7 @@ export default class FooterE extends React.Component {
 
           <p>TEL: xx-xxx-xxxx</p>
 
-          <p>E-mail: mulberrytrns@gmail.com</p>
+          <p>E-mail: midoritrns@gmail.com</p>
         </div>
       </div>
     );
