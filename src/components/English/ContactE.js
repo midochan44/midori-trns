@@ -41,7 +41,7 @@ export default class ContactE extends React.Component {
         />
         <button type="button" class="btn btn-primary">
           <a
-            href={`mailto:mulberrytrns@gmail.com?subject=${this.state.subject}&body=${this.state.contents}`}
+            href={`mailto:midoritrns@gmail.com?subject=${this.state.subject}&body=${this.state.contents}`}
           >
             Send
           </a>
