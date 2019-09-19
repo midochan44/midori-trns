@@ -5,7 +5,7 @@ export default class AboutE extends React.Component {
   render() {
     return (
       <div>
-        <h2>Who We Are</h2>
+        <h2>Who we are</h2>
         <hr />
         <div className="about">
           <img src={kayImg} alt="Kayoko Bossiere" />
