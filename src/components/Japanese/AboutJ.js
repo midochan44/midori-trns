@@ -13,7 +13,7 @@ export default class AboutJ extends React.Component {
             <div className="col-12">
               <h4>ボシエール 香代子</h4>
               <p>
-                １８年間ロサンゼルスにて、三人の子育てをするかたわら夫の経営する会社
+                １７年間ロサンゼルスにて、三人の子育てをするかたわら夫の経営する会社
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
