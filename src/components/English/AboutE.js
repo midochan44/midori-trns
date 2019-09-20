@@ -17,10 +17,8 @@ export default class AboutE extends React.Component {
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-                in Los Angeles for 18 years, I
-                recently moved to Japan. Based on the experience we have
-                cultivated in the United States, we are committed to providing
-                services that will satisfy our customers. My Toeic Score: 875
+               I spent 17 years in the United States.  During the stay I helped with translations for Shining Prince.  Now I’m base in Japan and commit to help people who need my skills and experiences.  
+               Toeic Score: 875
               </p>
             </div>
           </div>
@@ -32,10 +30,7 @@ export default class AboutE extends React.Component {
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-                , a consulting company related to movies and IT business, mainly
-                for customers in North America . Japanese-English French
-                trilingual. Graduated from UCLA Graduate School of Business
-                Administration
+                , a consulting company related to movies and IT businesses, serves for worldside clients. Own UCLA MBA
               </p>
             </div>
           </div>
