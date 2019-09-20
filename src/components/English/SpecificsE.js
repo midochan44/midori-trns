@@ -33,13 +33,7 @@ export default class SpecificsE extends React.Component {
         <p>
           We accept Paypal and bank transfers.  Payment is due within two weeks upon completion of the services.
         </p>
-          <a
-            href="https://www.paypal.com/jp/webapps/mpp/home"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            PayPal
-          </a>{" "}
+          
           
         <p>
           <a
