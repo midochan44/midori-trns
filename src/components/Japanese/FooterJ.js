@@ -11,7 +11,8 @@ export default class FooterJ extends React.Component {
 
           <p>東京都目黒区自由が丘3-2-17-202</p>
 
-          <p>TEL: xx-xxx-xxxx</p>
+          <p>TEL: 042-439-6159</p>
+          <p>FAX: 042-439-4903</p>
 
           <p>E-mail: midoritrns@gmail.com</p>
         </div>
