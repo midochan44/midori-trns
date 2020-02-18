@@ -8,15 +8,16 @@ export default class SpecificsJ extends React.Component {
         <div>
           <img className="divider" src={dividerImg} alt="KOB Translation" />
           <h2>私たちの翻訳サービスについて</h2>
+           <p>
+          ネイティブイングリッシュスピーカーによる自然な訳語。
+            </p>
           <hr />
           <p>
             
           </p>
         </div>
-        <h3>私たちが選ばれる理由</h3>
-        <p>
-          ネイティブイングリッシュスピーカーによる自然な訳語。操作がシンプル。低コスト、明瞭会計。
-        </p>
+        
+        
          <h3>翻訳言語</h3>
         <p>
           日本語・英語間の相互翻訳
