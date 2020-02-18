@@ -20,7 +20,7 @@ export default class ContactJ extends React.Component {
         <h2>ご依頼/お問い合わせ</h2>
         <hr />
         <p>
-          ご記入いただき送信ボタンをクリックするとメールで送信できます。
+          送信ボタンをクリックすると自動にメールが開きます。
         </p>
         <input
           className="subject"
