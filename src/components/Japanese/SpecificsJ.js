@@ -34,6 +34,7 @@ export default class SpecificsJ extends React.Component {
           1000円からの堅牢価格
         </p>
         <h3>ご注文</h3>
+        <p>下記お問い合わせよりご連絡ください。</p>
         <p>
           翻訳の必要な資料は文書をはじめ、写メ、ビデオ（会話）などの形式での受付も可能です。その他、ご相談ください。
         </p>
