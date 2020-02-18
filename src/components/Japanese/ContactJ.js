@@ -17,7 +17,7 @@ export default class ContactJ extends React.Component {
   render() {
     return (
       <div className="contactForm">
-        <h2>ご依頼/お問い合わせ</h2>
+        <h2>お問い合わせ</h2>
         <hr />
         <p>
           送信ボタンをクリックすると自動にメールが開きます。
