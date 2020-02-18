@@ -9,12 +9,13 @@ export default class FooterJ extends React.Component {
 
           <p>〒 202-0005</p>
 
-          <p>東京都西東京市住吉町３−１２−１６</p>
+          <p>東京都西東京市住吉町3-12-16</p>
 
+          <p>E-mail: midoritrns@gmail.com</p>
           <p>TEL: 042-439-6159</p>
           <p>FAX: 042-439-4903</p>
 
-          <p>E-mail: midoritrns@gmail.com</p>
+          
         </div>
       </div>
     );
