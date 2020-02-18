@@ -14,12 +14,6 @@ export default class SpecificsE extends React.Component {
         <p>
           We traslate all sorts of documents, lettrs, brochures, flyers, namuals, websites (language traslation only, no website development services), and more
         </p>
-     
-        <h3>Concierge services</h3>
-        <p>
-          We'll get the information you need.  Some examples of the services we can provide you are: you want to find a hotel and transportation options in an area where their information in English is limited.  Or you want to know more aboutschool systems for your kids in your area.   
-        </p>
-        
         <h3>Delivery</h3>
         <p>
           We deliver our services by email.  Other delivery methods may require additional fees and/or shipping charges.  
