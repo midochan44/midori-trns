@@ -12,7 +12,7 @@ export default class SpecificsJ extends React.Component {
           </div>
           <h3>お見積り無料</h3>
         <p>
-          まずはお見積りを！料金と所要日数をお知らせします。
+          お問い合わせ欄よりご連絡ください。料金と所要日数をお知らせします。
         </p>
         
          <h3>翻訳言語</h3>
