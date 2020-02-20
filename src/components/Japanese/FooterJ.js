@@ -7,14 +7,11 @@ export default class FooterJ extends React.Component {
         <div className="text">
           <p>みどり翻訳サービス</p>
 
-          <p>〒 202-0005</p>
-
-          <p>東京都西東京市住吉町3-12-16</p>
-
+          <p>代表 ボシエール香代子</p>
           <p>E-mail: midoritrns@gmail.com</p>
           <p>TEL: 042-439-6159</p>
           <p>FAX: 042-439-4903</p>
-
+          <p>自宅をオフィスとして使用しています。住所は必要に応じてお伝えしています。ご了承ください。</p>
           
         </div>
       </div>
