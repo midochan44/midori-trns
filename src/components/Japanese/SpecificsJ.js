@@ -8,15 +8,12 @@ export default class SpecificsJ extends React.Component {
         <div>
           <img className="divider" src={dividerImg} alt="KOB Translation" />
           <h2>私たちの翻訳サービスについて</h2>
-           <p>
-          ネイティブイングリッシュスピーカーによる自然な訳語。
-            </p>
           <hr />
-          <p>
-            
-          </p>
-        </div>
-        
+          </div>
+          <h3>お見積り無料</h3>
+        <p>
+          まずはお見積りを！料金と所要日数をお知らせします。
+        </p>
         
          <h3>翻訳言語</h3>
         <p>
@@ -26,10 +23,7 @@ export default class SpecificsJ extends React.Component {
         <p>
           各種文書、ビジネスレター、パンフレット、取り扱い説明書、メニュー、看板、お知らせ、ホームページの翻訳（言語の翻訳のみ）などいろいろ
         </p>
-        <h3>お見積り無料</h3>
-        <p>
-          料金と所要日数をお知らせします。
-        </p>
+        
         <h3>料金</h3>
         <p>
           1000円からの堅牢価格
