@@ -5,34 +5,26 @@ export default class AboutJ extends React.Component {
   render() {
     return (
       <div>
-        <h2>私たちについて</h2>
+        <h2>連絡祭</h2>
         <hr />
         <div className="about">
           <img src={kayImg} alt="Kayoko Bossiere" />
           <div className="row japanese">
             <div className="col-12">
-              <h4>ボシエール 香代子</h4>
+              <h4>みどり翻訳サービス</h4>
               <p>
-                １７年間ロサンゼルスにて、三人の子育てをするかたわら夫の経営する会社
-                <a href="http://www.shiningprince.com/" target="a">
-                  Shining Prince Entertainment
-                </a>
-                で翻訳などに携わった後、近年本拠を日本に移す。アメリカで培った経験をもとにお客様にご満足いただけるサービスを心掛けています。Toeic
-                スコア：875
+                代表　ボシエール香代子
               </p>
+              <p> E-mail: midoritrns@gmail.com</p>
+
+              <p>TEL: 042-439-6159 </p>
+
+              <p>FAX: 042-439-4903 </p>
+
+<p>自宅をオフィスとして使用しています。住所は必要に応じてお伝えしています。ご了承ください。</p>
             </div>
           </div>
-          <div className="row japanese">
-            <div className="col-12">
-              <h4>ボシエール ジェフリー</h4>
-              <p>
-                国際的な企業を顧客に映画、ITビジネス関連のコンサルタント会社
-                <a href="http://www.shiningprince.com/" target="a">
-                  Shining Prince Entertainment
-                </a>
-                を経営する。UCLA 経営学部大学院卒。
-              </p>
-            </div>
+          
           </div>
         </div>
       </div>
