@@ -5,7 +5,7 @@ export default class AboutJ extends React.Component {
   render() {
     return (
       <div>
-        <h2>連絡祭</h2>
+        <h2>連絡先</h2>
         <hr />
         <div className="about">
           <img src={kayImg} alt="Kayoko Bossiere" />
@@ -23,7 +23,7 @@ export default class AboutJ extends React.Component {
 
 <p>自宅をオフィスとして使用しています。住所は必要に応じてお伝えしています。ご了承ください。</p>
             </div>
-          </div>
+        
           
           </div>
         </div>
