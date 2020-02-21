@@ -21,7 +21,7 @@ export default class AboutJ extends React.Component {
 
               <p>FAX: 042-439-4903 </p>
 
-<p>自宅をオフィスとして使用しています。住所は必要に応じてお伝えしています。ご了承ください。</p>
+              <p>住所：自宅のため必要に応じてお伝えしています。ご了承願います。</p>
             </div>
         
           
