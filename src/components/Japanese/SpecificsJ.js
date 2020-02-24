@@ -26,7 +26,7 @@ export default class SpecificsJ extends React.Component {
         
         <h3>料金</h3>
         <p>
-          1000円からの堅牢価格
+          通常１０００円〜を５月末まで２０%オフ。お早めに！
         </p>
         <h3>ご注文</h3>
         <p>下記お問い合わせ欄よりご連絡ください。</p>
