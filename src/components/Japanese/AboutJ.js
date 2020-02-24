@@ -13,7 +13,7 @@ export default class AboutJ extends React.Component {
             <div className="col-12">
               <h4>みどり翻訳サービス</h4>
               <p>
-                代表　ボシエール香代子
+                代表　ボシエール香代子sama
               </p>
               <p> E-mail: <a href="mailto:midoritrns@gmail.com">midoritrns@gmail.com</a> </p>
 
