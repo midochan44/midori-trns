@@ -6,8 +6,6 @@ export default class FooterJ extends React.Component {
       <div className="footer">
         <div className="text">
           <p>みどり翻訳サービス</p>
-
-          <p>代表 ボシエール香代子</p>
           <p>E-mail: midoritrns@gmail.com</p>
           <p>TEL: 042-439-6159</p>
           <p>FAX: 042-439-4903</p>
