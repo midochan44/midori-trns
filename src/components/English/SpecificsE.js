@@ -12,7 +12,7 @@ export default class SpecificsE extends React.Component {
         </div>
         <h3>Translation services</h3>
         <p>
-          We traslate all sorts of documents, lettrs, brochures, flyers, namuals, websites (language traslation only, no website development services), and more
+          We traslate all sorts of documents, letters, brochures, flyers, namuals, websites (language traslation only, no website development services), and more
         </p>
         <h3>Delivery</h3>
         <p>
