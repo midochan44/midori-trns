@@ -17,23 +17,11 @@ export default class AboutE extends React.Component {
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-               I spent 17 years in the United States.  During the stay I helped with translations for Shining Prince.  Now I’m base in Japan and commit to help people who need my skills and experiences.  
-               Toeic Score: 875
+               I spent 18 years in the United States.  During the stay I helped with translations for Shining Prince.  Now I’m base in Japan and commit to help people who need my skills and experiences.  
               </p>
             </div>
           </div>
-          <div className="row">
-            <div className="col-12">
-              <h4>Geoffrey Bossiere</h4>
-              <p>
-                President of{" "}
-                <a href="http://www.shiningprince.com/" target="a">
-                  Shining Prince Entertainment
-                </a>
-                , a consulting company related to movies and IT businesses, serves for worldside clients. Own UCLA MBA
-              </p>
-            </div>
-          </div>
+          
         </div>
       </div>
     );
