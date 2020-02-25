@@ -13,7 +13,7 @@ export default class AboutE extends React.Component {
             <div className="col-12">
               <h4>Kayoko Bossiere</h4>
               <p>
-                I have helped with translation for our company, {" "}
+                I have worked with translation for our company, {" "}
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
