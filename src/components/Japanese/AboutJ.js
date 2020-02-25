@@ -5,23 +5,17 @@ export default class AboutJ extends React.Component {
   render() {
     return (
       <div>
-        <h2>連絡先</h2>
+        <h2>自己紹介</h2>
         <hr />
         <div className="about">
           <img src={kayImg} alt="Kayoko Bossiere" />
           <div className="row japanese">
             <div className="col-12">
-              <h4>みどり翻訳サービス</h4>
               <p>
-                代表　ボシエール香代子
+               　ボシエール香代子
               </p>
-              <p> E-mail: <a href="mailto:midoritrns@gmail.com">midoritrns@gmail.com</a> </p>
+              <p> １８年間アメリカで過ごしたのち、近年本拠を日本に移しました。自営の会社シャイニングプリンスジャパンにて長年翻訳の仕事をしてきましたが、子供たちも独立し時間に余裕ができたので、この度、社外にも翻訳の場を広けることにしました。あまり大きな仕事や専門的な内容の仕事には無理があろうと思いますが、社会生活一般に必要な翻訳は問題なくこなせる自信があります。今後ともよろしくお願いいたします。</p>
 
-              <p>TEL: 042-439-6159 </p>
-
-              <p>FAX: 042-439-4903 </p>
-
-              <p>住所：自宅のため必要に応じてお伝えしています。ご了承願います。</p>
              
             </div>
         
