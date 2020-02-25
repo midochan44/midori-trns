@@ -11,7 +11,7 @@ export default class IntroJ extends React.Component {
       </p>
       <p>さて、皆様はどんな英語の問題をお持ちでしょうか。
       </p>
-      <p>皆様からのお問い合わせを心よりをお待ちしています。</p>
+      <p>皆様からのお問い合わせを心よりお待ちしています。</p>
       </div>
     );
   }
