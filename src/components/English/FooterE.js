@@ -7,13 +7,12 @@ export default class FooterE extends React.Component {
         <div className="text">
           <p>MIDORI</p>
 
-          <p>〒152-0035</p>
+          <p>E-mail: <a href="mailto:midoritrns@gmail.com">midoritrns@gmail.com</a> </p>
 
-          <p>3-2-17-202 Jiyugaoka, Meguro-ku, Tokyo</p>
+          <p>Phone: 042-439-6159 </p>
 
-          <p>TEL: xx-xxx-xxxx</p>
+          <p>Fax: 042-439-4903 </p>
 
-          <p>E-mail: midoritrns@gmail.com</p>
         </div>
       </div>
     );
