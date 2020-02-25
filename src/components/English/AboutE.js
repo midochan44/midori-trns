@@ -17,7 +17,7 @@ export default class AboutE extends React.Component {
                 <a href="http://www.shiningprince.com/" target="a">
                   Shining Prince Entertainment
                 </a>
-               , on and off for 18 years.  Now we’re based in Japan and commit to help people who need my skills and experiences.
+               , on and off for 18 years.  Now we’re based in Japan and commit to help people who need our skills and experiences.
 
               </p>
             </div>
