@@ -6,27 +6,17 @@ export default class SpecificsJ extends React.Component {
     return (
       <div className="">
         <div>
-          <img className="divider" src={dividerImg} alt="KOB Translation" />
+          <img className="divider" src={dividerImg} alt="Midori Translation" />
           <h2>私たちの翻訳サービスについて</h2>
           <hr />
           </div>
-          <h3>お見積り無料</h3>
-        <p>
-          お客様の英語に関する問題をお聞かせください。
-        </p>
-        
-         <h3>翻訳言語</h3>
+        <h3>翻訳言語</h3>
         <p>
           日本語・英語間の相互翻訳
         </p>
         <h3>翻訳例</h3>
         <p>
           各種文書、ビジネスレター、パンフレット、取り扱い説明書、メニュー、看板、お知らせ、ホームページの翻訳、校正など
-        </p>
-        
-        <h3>料金</h3>
-        <p>
-          １０００円からの堅牢料金。令和２年５月末まで２０%オフ。お早めに！
         </p>
         <h3> 翻訳資料 </h3>
         <p> 
@@ -59,6 +49,14 @@ export default class SpecificsJ extends React.Component {
           とは、世界で2億5000万人以上が利用する「安全」で「かんたん」なオンライン決済サービスです。ペイパルでのお支払い手数料は当社が負担しますので、お客様は手数料ゼロでお支払いができます。ペイパルの年会費、登録料は無料です。
         </p>
         <p>銀行振込によるお支払い手数料はお客様のご負担になります。</p>
+        <h3>料金</h3>
+        <p>
+          １０００円からの堅牢料金。令和２年５月末まで２０%オフ。お早めに！
+        </p>  
+        <h3>お見積り無料</h3>
+        <p>
+          まずは見積り、細かいことはその後で。
+        </p>
       </div>
     );
   }
