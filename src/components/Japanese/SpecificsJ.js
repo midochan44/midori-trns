@@ -7,7 +7,7 @@ export default class SpecificsJ extends React.Component {
       <div className="">
         <div>
           <img className="divider" src={dividerImg} alt="Midori Translation" />
-          <h2>私たちの翻訳サービスについて</h2>
+          <h2>私たちの翻訳サービスについて<span class="subtitle">100%満足保証！</span></h2>
           <hr />
           </div>
         <h3>翻訳言語</h3>
@@ -55,7 +55,7 @@ export default class SpecificsJ extends React.Component {
         </p>  
         <h3>お見積り無料</h3>
         <p>
-          まずは見積り、細かいことはその後で。
+          まずは見積り! 細かいことはその後で。
         </p>
       </div>
     );
