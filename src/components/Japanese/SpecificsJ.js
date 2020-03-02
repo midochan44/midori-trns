@@ -25,4 +25,5 @@ import dividerImg from "../../media/divider.jpg";
         <div>お見積り無料</div>
         
       </div>
+         </div>
    
