@@ -1,9 +1,7 @@
 import React from "react";
 import dividerImg from "../../media/divider.jpg";
 
-export default class SpecificsJ extends React.Component {
-  render() {
-    return (
+
       <div className="">
         <div>
           <img className="divider" src={dividerImg} alt="Midori Translation" />
@@ -27,6 +25,4 @@ export default class SpecificsJ extends React.Component {
         <div>お見積り無料</div>
         
       </div>
-    );
-  }
-}
+   
