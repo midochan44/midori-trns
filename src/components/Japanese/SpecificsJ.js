@@ -34,3 +34,30 @@ export default class SpecificsJ extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >
+            ペイパル
+          </a>
+          または銀行振込にてお支払いください。
+        </p>
+        <p>
+          <a
+            href="https://www.paypal.com/jp/webapps/mpp/home"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ペイパル
+          </a>
+          とは、世界で2億5000万人以上が利用する「安全」で「かんたん」なオンライン決済サービスです。ペイパルでのお支払い手数料は当社が負担しますので、お客様は手数料ゼロでお支払いができます。ペイパルの年会費、登録料は無料です。
+        </p>
+        <p>銀行振込によるお支払い手数料はお客様のご負担になります。</p>
+        <h3>料金</h3>
+        <p>
+          １０００円からの堅牢料金。令和２年５月末まで<b>２０%オフ</b>。お早めに！
+        </p>  
+        <h3>お見積り無料</h3>
+        <p>
+          まずは見積り! 細かいことはその後で。
+        </p>
+      </div>
+    );
+  }
+}
