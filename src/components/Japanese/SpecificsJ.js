@@ -17,7 +17,7 @@ export default class SpecificsJ extends React.Component {
           <h2 className="article">私たちの翻訳サービスについて<span className="subtitle">思い立ったらすぐに頼める翻訳</span></h2>
           <hr />
           </div>
-          <div className="container">
+          <div className="specificsContainer">
             <div className="item">
                 <div className="thumnail">
                     <img src={thumb} alt="thumb" width="150" height="150"/>
@@ -34,7 +34,7 @@ export default class SpecificsJ extends React.Component {
             </div>
             
         </div>
-        <div className="container">
+        <div className="specificsContainer">
             <div className="item">
                 <div className="thumnail">
                     <img src={balloon} alt="balloon" width="150" height="150"/>
@@ -51,7 +51,7 @@ export default class SpecificsJ extends React.Component {
             </div>
             
         </div>
-        <div className="container">
+        <div className="specificsContainer">
             <div className="item">
                 <div className="thumnail">
                     <img src={lemon} alt="lemon" width="150" height="150"/>
@@ -77,7 +77,7 @@ export default class SpecificsJ extends React.Component {
                 <p className="description"> まずは見積り! この時点でお客様の個人情をお聞きすることはありません。お気軽にお問い合わせください。</p>
             </div>
         </div>
-        <div className="container last">
+        <div className="specificsContainer last">
                 <div className="item">
                 <div className="thumnail">
                     <img src={apple} alt="apple" width="150" height="150"/>
