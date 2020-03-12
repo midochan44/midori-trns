@@ -32,6 +32,8 @@ export default class SpecificsJ extends React.Component {
                 <h3 className="category">翻訳言語</h3>
                 <p className="description">日本語・英語間の相互翻訳</p>
             </div>
+        </div>
+        <div className="specificsContainer">
             <div className="item">
                 <div className="thumnail">
                     <img src={balloon} alt="balloon" width="150" height="150"/>
@@ -46,6 +48,8 @@ export default class SpecificsJ extends React.Component {
                 <h3 className="category">翻訳資料</h3>
                 <p className="description">翻訳の必要な資料をEメールで送ってください。文書をはじめ、写メ、ビデオ（会話）などの形式からの翻訳も可能です。その他ご相談ください。</p>
             </div>
+        </div>
+        <div className="specificsContainer">
             <div className="item">
                 <div className="thumnail">
                     <img src={lemon} alt="lemon" width="150" height="150"/>
