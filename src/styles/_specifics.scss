@@ -7,13 +7,15 @@
 	width: 50%;
 }
 
+
 .item {
 	padding: 10px;
-	margin:20px;
+	margin: 20px;
+	flex: 1 0 45%;
+}
 
-	flex-grow: 1;
-  	flex-shrink: 1;
-  	flex-basis: 0;
+.item img {
+	border-radius: 3px;
 }
 
 
