@@ -10,8 +10,11 @@
 
 .item {
 	padding: 10px;
-	margin: 20px;
-	flex: 1 0 45%;
+	margin:20px;
+
+	flex-grow: 1;
+  	flex-shrink: 1;
+  	flex-basis: 0;
 }
 
 .item img {
