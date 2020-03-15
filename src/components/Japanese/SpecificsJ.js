@@ -75,7 +75,7 @@ export default class SpecificsJ extends React.Component {
                     <p className="description"> まずは見積り! この時点でお客様の個人情をお聞きすることはありません。お気軽にお問い合わせください。</p>
             </div>
         </div>
-        <div className="specificsContainer last">
+        <div className="last">
                 
                 <div className="thumnail">
                     <img src={apple} alt="apple" width="150" height="150"/>
