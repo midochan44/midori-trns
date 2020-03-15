@@ -28,14 +28,14 @@
 
 
 .category{
-	display: block;
+	    overflow: hidden;
   margin: 25px 0 10px 10px;
   padding-left:10px;
   border-left: 10px solid #09f;
 }
 
 .description{
-	display: block;
+	overflow; hidden;
 	text-decoration: none;
 	color:#333333;
 	padding-left:10px;
