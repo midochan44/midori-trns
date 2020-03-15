@@ -76,7 +76,7 @@ export default class SpecificsJ extends React.Component {
             </div>
         </div>
         <div className="specificsConatiner last">
-            <div className="item"
+            <div className="item">
                 <div className="thumnail">
                     <img className="lastImg" src={apple} alt="apple" width="150" height="150"/>
                 </div>
