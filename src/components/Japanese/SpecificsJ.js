@@ -79,9 +79,10 @@ export default class SpecificsJ extends React.Component {
                 <div className="item">
                 <div className="thumnail">
                     <img src={apple} alt="apple" width="150" height="150"/>
+                    <h3 className="category">翻訳例</h3>
+                    <p className="description">各種文書、ビジネスレター、パンフレット、取り扱い説明書、メニュー、看板、お知らせ、ホームページの翻訳、校正など</p>
                 </div>
-                <h3 className="category">翻訳例</h3>
-                <p className="description">各種文書、ビジネスレター、パンフレット、取り扱い説明書、メニュー、看板、お知らせ、ホームページの翻訳、校正など</p>
+               
             </div>
         </div>
       </div>
